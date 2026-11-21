@@ -1,6 +1,6 @@
 # Better User Interface — for *Dark Souls: Remastered*
 
-A texture pack that combines two Dark Souls: Remastered UI mods into one — with my own subjective edits made along the way:
+A texture pack that combines two *Dark Souls: Remastered* UI mods into one — with my own subjective edits made along the way:
 
 - [Silver UI + Lock-on + Bow Aim + Translucent](https://www.nexusmods.com/darksoulsremastered/mods/52?utm_source=chatgpt.com)
 - [UI Icon Remake](https://www.nexusmods.com/darksoulsremastered/mods/667?utm_source=chatgpt.com)
