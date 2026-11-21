@@ -5,7 +5,7 @@ A texture pack that combines two Dark Souls: Remastered UI mods into one — wit
 - [Silver UI + Lock-on + Bow Aim + Translucent](https://www.nexusmods.com/darksoulsremastered/mods/52?utm_source=chatgpt.com)
 - [UI Icon Remake](https://www.nexusmods.com/darksoulsremastered/mods/667?utm_source=chatgpt.com)
 
-**Install:**
+## Install
 
 1. Download or clone this repository — the textures are in the `Texture Override` folder.
 2. Close the game.
