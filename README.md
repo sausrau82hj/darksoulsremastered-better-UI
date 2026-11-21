@@ -21,5 +21,7 @@ This project incorporates and modifies assets from the following mods:
 
 All original third-party assets remain the property of their respective authors.
 
-The MIT License in this repository applies only to original work created by sausrau82hj. It does not apply to third-party assets.
+## License
+
+The [MIT License](LICENSE) in this repository applies only to original work created by sausrau82hj. It does not apply to third-party assets.
 
