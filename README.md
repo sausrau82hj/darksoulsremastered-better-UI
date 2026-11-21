@@ -1,4 +1,4 @@
-# Better User Interface — for Dark Souls: Remastered
+# Better User Interface — for *Dark Souls: Remastered*
 
 A texture pack that combines two Dark Souls: Remastered UI mods into one — with my own subjective edits made along the way:
 
