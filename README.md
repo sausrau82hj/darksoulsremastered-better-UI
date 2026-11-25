@@ -17,7 +17,7 @@ A texture pack that combines two *Dark Souls: Remastered* UI mods into one — w
 This project incorporates and modifies assets from the following mods:
 
 - [Silver UI + Lock-on + Bow Aim + Translucent](https://www.nexusmods.com/darksoulsremastered/mods/52) by [SpongiePeanut](https://www.nexusmods.com/profile/SpongiePeanut)
-- [UI_Icon - Remake](https://www.nexusmods.com/darksoulsremastered/mods/667) by D0M4K0M4
+- [UI_Icon - Remake](https://www.nexusmods.com/darksoulsremastered/mods/667) by [DOMASKUSIMETAL01](https://www.nexusmods.com/profile/DOMASKUSIMETAL01)
 
 Both authors gave permission for their assets to be merged and redistributed here.
 
